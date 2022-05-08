@@ -16,4 +16,4 @@ database in a user-friendly way via a a simple menu.
 SQL for the creation of the database can be found on "PROJECT_mysql_create.sql"
 
 ## Final Report 
-The final report and more details on setup and use can be found on "esssay.docx"
+The final report and more details about the app and the setup  can be found on "esssay.docx" and "setup.txt".
