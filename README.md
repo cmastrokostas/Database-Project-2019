@@ -20,4 +20,4 @@ The final report and more details about the app and the setup  can be found on "
 
 ## Contributors
 * Charalampos Mastrokostas (chmastrokostas@gmail.com) 
-* Stylianos Krasopoulos (@stelioskrasopoulos) 
+* Stylianos Krasopoulos (stelioskrasopoulos@hotmail.com) 
