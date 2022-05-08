@@ -12,3 +12,4 @@ Through our application, which was developed in Python it is possible to view an
 ![dbdesigner](/db.png)
 
 ## Final Report 
+esssay.docx
